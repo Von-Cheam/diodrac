@@ -2,7 +2,7 @@
 
 ### Installation
 
-```ShellSession
+```shell
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
@@ -16,7 +16,7 @@ cd ~/Perl6_Code
 git clone https://github.com/Von-Cheam/diodrac.git
 ```
 ### Usage
-```ShellSession
+```shell
 cd ~/Perl6_Code/diodrac
 perl6 diodrac.pl6
 ```
