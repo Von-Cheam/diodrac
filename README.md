@@ -19,5 +19,6 @@ git clone https://github.com/Von-Cheam/diodrac.git
 ### Usage
 ```shell
 cd ~/Perl6_Code/diodrac
+
 perl6 diodrac.pl6
 ```
