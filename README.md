@@ -1,5 +1,5 @@
 # diodrac
-#### _for Waffle_
+#### _..for Waffle.._
 ---
 ### Installation
 
