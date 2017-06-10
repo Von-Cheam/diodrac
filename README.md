@@ -20,5 +20,5 @@ git clone https://github.com/Von-Cheam/dioidrac.git
 ```shell
 cd ~/Perl6_Code/dioidrac
 
-perl6 diodrac.pl6
+perl6 dioidrac.pl6
 ```
