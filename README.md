@@ -14,11 +14,11 @@ zef install Terminal::ANSIColor
 
 mkdir -p ~/Perl6_Code
 cd ~/Perl6_Code
-git clone https://github.com/Von-Cheam/diodrac.git
+git clone https://github.com/Von-Cheam/dioidrac.git
 ```
 ### Usage
 ```shell
-cd ~/Perl6_Code/diodrac
+cd ~/Perl6_Code/dioidrac
 
 perl6 diodrac.pl6
 ```
