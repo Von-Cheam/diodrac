@@ -1,4 +1,4 @@
-# diodrac
+# dioidrac
 #### _..for Waffle.._
 ---
 ### Installation
